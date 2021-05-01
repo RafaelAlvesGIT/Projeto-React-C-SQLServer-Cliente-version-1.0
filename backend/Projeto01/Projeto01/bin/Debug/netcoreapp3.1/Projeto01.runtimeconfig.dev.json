@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Confluence\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Confluence\\.nuget\\packages"
+    ]
+  }
+}
